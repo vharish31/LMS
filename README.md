@@ -101,8 +101,8 @@ cd backend && npm run dev
 cd frontend && npm run dev
 ```
 
-- Backend: http://localhost:5000  
-- Frontend: http://localhost:3000  
+- Backend: https://lms-backend-34d2.onrender.com  
+- Frontend: https://lms-backend-34d2.onrender.com
 
 ## UI Overview
 
